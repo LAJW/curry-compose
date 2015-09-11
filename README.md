@@ -1,6 +1,6 @@
 #ES6 Promise-aware curry() and compose()
 
-[http://layv.net/curry-compose/](Article explaining these functions)
+[Article explaining these functions](http://layv.net/curry-compose/)
 
 Quick examples:
 
