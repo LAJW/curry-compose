@@ -1,5 +1,8 @@
 #ES6 Promise-aware curry() and compose()
 
+Note: I've built whole library that takes these concepts to a whole new level:
+[Fugazi](https://github.com/lajw/fugazi/)
+
 [Article explaining these functions](http://layv.net/curry-compose/)
 
 Quick examples:
